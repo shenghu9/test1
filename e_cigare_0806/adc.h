@@ -56,7 +56,7 @@ typedef enum
 typedef enum
 {
   AdcVref_VCC     = 0,
-  AdcVref_2P5207V = 1,
+  AdcVref_2P48V   = 1,          //AdcVref_2P5207V = 1,
   AdcVref_3P0379V = 2,
   AdcVref_4P0646V = 3  
 }AdcVref_TypeDef;
