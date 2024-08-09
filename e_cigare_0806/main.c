@@ -13,8 +13,9 @@
 
 const unsigned int szTemp @0x0FFE=0;//Don't remove or remark this line.
 
-#define Rload_1ms  5
-#define VREF 2480
+//添加代码
+//#define Rload_1ms  5
+//#define VREF 2480
 #define VMIN 3000
 #define VMAX 4200
 
