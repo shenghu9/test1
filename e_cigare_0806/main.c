@@ -21,7 +21,7 @@ const unsigned int szTemp @0x0FFE=0;//Don't remove or remark this line.
 unsigned int ADC_VAL = 0;
 unsigned char Smoke_Cnt=0;
 unsigned int event;
-//unsigned int Bat_Volt;
+unsigned int Bat_Volt;
 unsigned int Bat_percent;
 
 unsigned int ten;
